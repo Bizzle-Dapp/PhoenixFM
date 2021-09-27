@@ -15,19 +15,20 @@ Follow the steps below and you'll be vibing to Jeremy Soule playing games with y
 6) Head to the Bot tab, and create the bot. Give him an Icon and a Username. The `Token` is what you need from here.
 7) Clone this repo, create a `.env.local` file at the root of the repository.
 8) Inside your `.env.local` add a line: `TOKEN = <YOURTOKENHERE>`. See two steps above!
-9) Save everything.
-10) Open the terminal in your directory. Type `node index.js` to start Phoenix. You should see "Ready" in the terminal output.
-11) If your Token's reference has authenticated, and your bot is in your server, it'll be listening...
+9) Be sure to run `npm i` in the directory from the terminal to install all dependencies
+10) Save everything.
+11) Open the terminal in your directory. Type `node index.js` to start Phoenix. You should see "Ready" in the terminal output.
+12) If your Token's reference has authenticated, and your bot is in your server, it'll be listening...
+13) Pop Harvest Dawn by Jeremy Soule on. It's a classic.
 
 ## Commands:
-#### Play:
 `!play` _Some YouTube Link_ : Plays a track
 
 `!stop` : Stops the queue.
 
 `!skip` : Skips the current track.
 
-### Many thanks to Gabriel Tanner:
+## Many thanks to Gabriel Tanner:
 https://gabrieltanner.org/blog/dicord-music-bot
 
 A huge leg up with getting this running for the Discord, top score.
