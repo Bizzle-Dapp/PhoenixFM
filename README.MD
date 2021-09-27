@@ -30,4 +30,4 @@ Follow the steps below and you'll be vibing to Jeremy Soule playing games with y
 ### Many thanks to Gabriel Tanner:
 https://gabrieltanner.org/blog/dicord-music-bot
 
-A huge leg up with getting this running for the Discord, stop score.
+A huge leg up with getting this running for the Discord, top score.
