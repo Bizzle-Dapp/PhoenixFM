@@ -51,7 +51,7 @@ async function execute(message, serverQueue, queue) {
         }
     } else {
         serverQueue.songs.push(song);
-        console.log(serverQueue.songs);
+        console.log(serverQueue);
         return message.channel.send(`I have added ${song.title} to the queue, looking forward to it.`);
     }
 
